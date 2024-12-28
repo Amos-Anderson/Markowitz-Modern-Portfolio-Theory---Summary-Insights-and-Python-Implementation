@@ -1,0 +1,2 @@
+# Markowitz-Modern-Portfolio-Theory---Summary-Insights-and-Python-Implementation
+The Modern Portfolio, as propounded by Harry Markowitz in 1952, is a fundamental theory that helps in finding the optimal allocation of assets in a portfolio. In this article, we provide a concise look at the theory and then implement the theory in Python. We use two asset and three asset cases to explain how we find the equilibrium allocation.
